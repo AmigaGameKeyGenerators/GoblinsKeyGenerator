@@ -1,1 +1,1 @@
-# goblins-key-generator
+# Goblins Key Generator Project
