@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bottles/gob2_1.png</file>
+        <file>bottles/gob2_2.png</file>
+        <file>bottles/gob2_3.png</file>
+        <file>bottles/gob2_4.png</file>
+        <file>bottles/gob2_5.png</file>
+        <file>bottles/gob2_6.png</file>
+        <file>bottles/gob2_7.png</file>
+        <file>bottles/gob2_8.png</file>
+        <file>bottles/gob3_1.png</file>
+        <file>bottles/gob3_2.png</file>
+        <file>bottles/gob3_3.png</file>
+        <file>bottles/gob3_4.png</file>
+        <file>bottles/gob3_5.png</file>
+        <file>bottles/gob3_6.png</file>
+        <file>bottles/gob3_7.png</file>
+        <file>bottles/gob3_8.png</file>
+        <file>images/logo.png</file>
+        <file>images/Information_icon4.svg</file>
+    </qresource>
+</RCC>
